@@ -2,9 +2,9 @@
 
   "secretCode": "jejepganteng",
 
-  "description": "agastra crash v.5", 
+  "description": "slaughter crash", 
 
-  "lastUpdated": "20/04/2025",
+  "lastUpdated": "23-07-2025",
 
   "author": "jejep", 
 
